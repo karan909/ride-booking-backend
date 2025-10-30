@@ -1,0 +1,5 @@
+MONGO_URI=mongodb+srv://sachinlodhi:saChin%40123@cluster0.ai5xl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+ACCESS_TOKEN_SECRET=tomandjerry
+ACCESS_TOKEN_EXPIRY=4d
+REFRESH_TOKEN_SECRET=jerryandtom
+REFRESH_TOKEN_EXPIRY=30d
